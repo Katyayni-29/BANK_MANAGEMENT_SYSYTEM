@@ -1,6 +1,6 @@
 # Bank_Management_System
 
-A simple banking application built using Flask and SQL.
+A simple banking application built using python and SQL.
 
 ## Features
 
@@ -15,7 +15,6 @@ A simple banking application built using Flask and SQL.
 
 - Python 
 - SQL
-- Flask
 
 ## Setup Instructions
 
