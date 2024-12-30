@@ -44,3 +44,5 @@ create table login (
 alter table users add primary key (acct_number);
 
 desc login;
+
+
